@@ -68,16 +68,17 @@
       "name": "Repositories Widget",
       "size": {
         "width": 392,
-        "height": 192
+        "height": 256
       },
       "config": {
-        "maxRepos": 2,
+        "maxRepos": 3,
         "hideBorder": true,
         "repoSortBy": "stars",
         "accentColor": "#bd93f9",
         "repoViewMode": "list",
         "selectedRepos": [
           "zeomos-remote-control",
+          "mood-based-music",
           "WanderWise"
         ],
         "showRepoForks": false,
@@ -11678,7 +11679,7 @@
   "templateId": "native_advanced",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1789819096062_quwbb",
-    "updatedAt": "2026-09-19T11:58:18.594Z"
+    "revision": "rev_1789891440106_ugu3i",
+    "updatedAt": "2026-09-20T08:04:02.238Z"
   }
 }
